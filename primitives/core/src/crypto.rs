@@ -582,6 +582,8 @@ ss58_address_format!(
 		(65, "aventus", "Aventus Chain mainnet, standard account (*25519).")
 	CrustAccount =>
 		(66, "crust", "Crust Network, standard account (*25519).")
+	EquilibriumAccount =>
+		(67, "equilibrium", "Equilibrium Network, standard account (*25519).")
 	// Note: 48 and above are reserved.
 );
 
